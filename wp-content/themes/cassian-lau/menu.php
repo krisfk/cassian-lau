@@ -2,13 +2,13 @@
     <li><a href="#">Home</a></li>
     <li><a href="javascript:void(0);" class="parent-a">About Myself</a>
         <ul class="sub-menu">
-            <li><a href="#">Bio</a></li>
-            <li><a href="#">CV</a></li>
+            <li><a href="<?php echo get_site_url()?>/bio">Bio</a></li>
+            <li><a href="<?php echo get_site_url()?>/cv">CV</a></li>
         </ul>
     </li>
-    <li><a href="#">Exhibition</a></li>
-    <li><a href="#">Archieve</a></li>
-    <li><a href="#">Blog</a></li>
-    <li><a href="#">Interview</a></li>
-    <li><a href="#">Contact</a></li>
+    <li><a href="<?php echo get_site_url()?>/exhition">Exhibition</a></li>
+    <li><a href="<?php echo get_site_url()?>/archieve">Archieve</a></li>
+    <li><a href="<?php echo get_site_url()?>/blog">Blog</a></li>
+    <li><a href="<?php echo get_site_url()?>/interview">Interview</a></li>
+    <li><a href="<?php echo get_site_url()?>/contact">Contact</a></li>
 </ul>
