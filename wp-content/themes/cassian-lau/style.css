@@ -179,4 +179,5 @@ body {
 
 .year-filter-ul li a {
     color: #696969;
+    text-decoration: none;
 }
