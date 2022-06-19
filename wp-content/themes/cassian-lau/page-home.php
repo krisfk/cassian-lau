@@ -76,7 +76,7 @@ $(function() {
         dots: true,
         // centerMode: true,
         // variableWidth: true,
-        dotsClass: 'slider-dots',
+        // dotsClass: 'slider-dots',
         arrows: false,
         pauseOnFocus: false,
         infinite: true,
