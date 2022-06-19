@@ -34,7 +34,7 @@ get_header(); ?>
     </div>
 
 
-    <div class="row justify-content-center">
+    <div class="row justify-content-center gx-5">
 
         <div class="col-8">
             <img class="w-100"
