@@ -38,39 +38,21 @@ get_header(); ?>
 
         <div class="col-8 main-content-div">
 
-            <h1>About Myself - CV</h1>
-            <h2> Cassian Lau 劉啟舜</h2>
-            <br>
-            1968 : born in Hong Kong <br>
-            <br>
-            1974 : immigrated to Toronto Canada<br><br>
+            <h1>Exhibition</h1>
 
-            1990’s : graduated BFA (honours) , BBA (honours) , York University. Toronto, Ontario, Canada.<br><br>
-
-            2000’s : Established chain of fashion boutiques (Sistyr Moon)<br><br>
-
-            2009 : Solo Exhibition “Electric Claustorphobia” at MADHOUSE Contemporary,
-            Hong Kong<br><br>
-
-            2009: Established fashion label, “iiJin”<br><br>
-
-            2010 : Solo Exhibition “Anybody Left Under the Lion Rock” , OC Gallery , Hong Kong<br><br>
-
-            2011: Joint Exhibition “ HK ARTcomics, Hong Kong<br><br>
-
-            2012 : regular comic strip contributor to Apple Daily<br><br>
-
-            2012 : Joint Exhibition “The Repository of Coherent Babbles” , Southsite , Hong Kong<br><br>
-
-            2013-present : Owner/Artistic Director for fashion label "iiJin"<br><br>
-
-            2016 : Joint Exhibition "Fabrik Expo" , Los Angeles , California<br><br>
-
-            2016 : Live Painting Demonstration at Bloomingdales Soho , New York , New York<br><br>
-
-            2021 : Joint Exhibition “Remember Them?”, Art Space K, Hong Kong<br><br>
-
-
+            <div> years:
+            </div>
+            <ul class="year-filter-ul">
+                <li><a href="">2022</a></li>
+                <li><a href="">2021</a></li>
+                <li><a href="">2020</a></li>
+                <li><a href="">2019</a></li>
+                <li><a href="">2019</a></li>
+                <li><a href="">2018</a></li>
+            </ul>
+            <div class="row">
+                <div></div>
+            </div>
 
         </div>
         <div class="col-2">

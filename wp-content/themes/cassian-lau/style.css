@@ -167,3 +167,16 @@ body {
     font-weight: bold;
     margin: 0 0 1.5rem 0;
 }
+
+.year-filter-ul {
+    padding: 0;
+    margin: 0;
+}
+
+.year-filter-ul li {
+    display: inline-block;
+}
+
+.year-filter-ul li a {
+    color: #696969;
+}
