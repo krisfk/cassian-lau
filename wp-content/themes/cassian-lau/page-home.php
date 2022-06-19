@@ -42,10 +42,10 @@ get_header(); ?>
                     <img class="w-100"
                         src="http://64.227.13.14/cassian-lau/wp-content/uploads/2022/06/158896603_10158032193383097_5747288509285760327_n.jpeg"
                         alt="">
-                    <!-- 
+
                     <img class="w-100" src="http://64.227.13.14/cassian-lau/wp-content/uploads/2022/06/slide2.jpg"
                         alt="">
-                    <img class="w-100" src="http://64.227.13.14/cassian-lau/wp-content/uploads/2022/06/slide3.jpg"
+                    <!--  <img class="w-100" src="http://64.227.13.14/cassian-lau/wp-content/uploads/2022/06/slide3.jpg"
                         alt=""> -->
 
                 </div>
