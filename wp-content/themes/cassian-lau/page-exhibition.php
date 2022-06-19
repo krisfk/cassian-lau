@@ -52,8 +52,8 @@ get_header(); ?>
             </ul>
             <div class="row">
                 <div class="col-4">
-                    <a href=""><img src="http://64.227.13.14/cassian-lau/wp-content/uploads/2022/06/temp-img.png"
-                            alt="">
+                    <a href=""><img class="w-100"
+                            src="http://64.227.13.14/cassian-lau/wp-content/uploads/2022/06/temp-img.png" alt="">
                         <div>PAINTINGS FROM ELECTRIC CLAUSTROPHOBIA SOLO SHOW</div>
                     </a>
 
