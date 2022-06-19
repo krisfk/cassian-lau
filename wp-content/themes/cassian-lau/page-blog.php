@@ -55,27 +55,29 @@ get_header(); ?>
                 <li><a href="">2018</a></li>
             </ul>
 
-            <?php
+            <div class="mt-4">
+                <?php
             for($i=0;$i<4;$i++)
             {
                 ?>
-            <div class="row mt-4">
+                <div class="row">
 
-                <div class="col-3 mb-4"><img class="w-100"
-                        src="http://64.227.13.14/cassian-lau/wp-content/uploads/2022/06/rect-img.jpg" alt=""></div>
-                <div class="col-9 mb-4">
-                    <a class="unchange-color-a" href="<?php echo get_site_url();?>/blog-detail">
-                        <div>2022 - 06 - 09</div>
-                        <div>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod
-                            tincidunt ut laoreet dolore magna aliquam erat Lorem ipsum dolor sit amet, consectetuer
-                            adipiscing elit, sed diam nonummy nibh euismod
-                            tincidunt ut laoreet dolore magna aliquam erat </div>
-                    </a>
+                    <div class="col-3 mb-4"><img class="w-100"
+                            src="http://64.227.13.14/cassian-lau/wp-content/uploads/2022/06/rect-img.jpg" alt=""></div>
+                    <div class="col-9 mb-4">
+                        <a class="unchange-color-a" href="<?php echo get_site_url();?>/blog-detail">
+                            <div>2022 - 06 - 09</div>
+                            <div>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod
+                                tincidunt ut laoreet dolore magna aliquam erat Lorem ipsum dolor sit amet, consectetuer
+                                adipiscing elit, sed diam nonummy nibh euismod
+                                tincidunt ut laoreet dolore magna aliquam erat </div>
+                        </a>
+                    </div>
                 </div>
-            </div>
-            <?php
+                <?php
             }
             ?>
+            </div>
         </div>
         <div class="col-2">
 
