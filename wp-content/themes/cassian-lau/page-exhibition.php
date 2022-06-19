@@ -43,7 +43,7 @@ get_header(); ?>
             <div class="mt-4"> Years:
             </div>
             <ul class="year-filter-ul">
-                <li><a href="">2022</a></li>
+                <li><a href="" class="active">2022</a></li>
                 <li><a href="">2021</a></li>
                 <li><a href="">2020</a></li>
                 <li><a href="">2019</a></li>
