@@ -156,3 +156,8 @@ body {
 .main-content-div {
     font-family: Arial, Helvetica, sans-serif;
 }
+
+.main-content-div h1 {
+    font-size: 1rem;
+    color: #000;
+}
