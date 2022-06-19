@@ -1,5 +1,5 @@
 <ul class="side-menu">
-    <li><a href="#">Home</a></li>
+    <li><a href="<?php echo get_site_url()?>">Home</a></li>
     <li><a href="javascript:void(0);" class="parent-a">About Myself</a>
         <ul class="sub-menu">
             <li><a href="<?php echo get_site_url()?>/bio">Bio</a></li>
