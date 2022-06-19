@@ -61,7 +61,7 @@ get_header(); ?>
                 ?>
 
 
-            <div class="row mt-4">
+            <div class="row mt-0">
 
                 <div class="col-3 mb-4"><img class="w-100"
                         src="http://64.227.13.14/cassian-lau/wp-content/uploads/2022/06/rect-img.jpg" alt=""></div>
