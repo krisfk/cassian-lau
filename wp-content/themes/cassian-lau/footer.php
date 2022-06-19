@@ -27,7 +27,16 @@
 </div><!-- #page -->
 
 <?php wp_footer(); ?>
-<script type="text/javascript"></script>
+<script type="text/javascript">
+$(function() {
+
+    $('.parent-a').click(function() {
+
+        $(this).next('sub-menu').SlideDown(200);
+
+    })
+})
+</script>
 </body>
 
 </html>
