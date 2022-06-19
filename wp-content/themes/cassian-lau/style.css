@@ -145,6 +145,7 @@ body {
 .sub-menu li a {
     font-size: 1.25rem;
     transition: 0.2s;
+    color: #0f73be;
 }
 
 .sub-menu li a:hover {
