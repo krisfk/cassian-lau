@@ -38,7 +38,7 @@ get_header(); ?>
 
         <div class="col-8">
             <div class="w-100 position-relative">
-                <div class="slideshow">
+                <div class="slideshow w-100">
                     <img class="w-100"
                         src="http://64.227.13.14/cassian-lau/wp-content/uploads/2022/06/158896603_10158032193383097_5747288509285760327_n.jpeg"
                         alt="">
