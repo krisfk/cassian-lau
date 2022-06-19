@@ -23,12 +23,18 @@ get_header(); ?>
 <?php endif; ?>
 <div class="container">
 
-    <div class="cassian-name">
-        <span class="blue">CASSIAN</span> <span class="red">LAU</span>
+    <div class="row justify-content">
 
+        <div class="col-10">
+            <div class="cassian-name">
+                <span class="blue">CASSIAN</span> <span class="red">LAU</span>
+
+            </div>
+        </div>
     </div>
 
-    <div class="row justify-center-">
+
+    <div class="row justify-content">
 
         <div class="col-8">
             <img class="w-100"
