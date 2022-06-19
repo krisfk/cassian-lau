@@ -23,7 +23,7 @@ get_header(); ?>
 <?php endif; ?>
 <div class="container">
 
-    <div>CASSIAN LAU
+    <div class="cassian-name">CASSIAN LAU
     </div>
 
     <div class="row">
