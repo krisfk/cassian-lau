@@ -36,7 +36,7 @@ get_header(); ?>
 
     <div class="row justify-content-center">
 
-        <div class="col-8">
+        <div class="col-8 main-content-div">
 
             <h1>About Myself - BIO</h1>
         </div>
