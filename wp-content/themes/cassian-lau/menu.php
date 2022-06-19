@@ -1,4 +1,4 @@
-<ul class="side-menu">f
+<ul class="side-menu">
     <li><a href="#">Home</a></li>
     <li><a href="javascript:void(0);" class="parent-a">About Myself</a>
         <ul class="sub-menu">
