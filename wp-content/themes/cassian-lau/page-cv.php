@@ -39,9 +39,8 @@ get_header(); ?>
         <div class="col-8 main-content-div">
 
             <h1>About Myself - CV</h1>
-
             <h2> Cassian Lau 劉啟舜</h2>
-
+            <br>
             1968 : born in Hong Kong <br>
             <br>
             1974 : immigrated to Toronto Canada<br><br>
