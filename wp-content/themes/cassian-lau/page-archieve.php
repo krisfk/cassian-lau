@@ -56,15 +56,14 @@ get_header(); ?>
             for($i=0;$i<8;$i++)
             {
                 ?>
-                <div class="col-4 mb-4">
-                    <a href="<?php echo get_site_url();?>/exhibition-detail" class="exhibition-a"><img class="w-100"
-                            src="http://64.227.13.14/cassian-lau/wp-content/uploads/2022/06/temp-img.png" alt="">
-                        <div>PAINTINGS FROM ELECTRIC CLAUSTROPHOBIA SOLO SHOW</div>
-                    </a>
+                <div class="col-3"><img class="w-100"
+                        src="http://64.227.13.14/cassian-lau/wp-content/uploads/2022/06/rect-img.jpg" alt=""></div>
+                <div class="col-9">
 
-
+                    <div>2022 - 06 - 09</div>
+                    <div>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod
+                        tincidunt ut laoreet dolore magna aliquam erat </div>
                 </div>
-
                 <?php
             }
             ?>
