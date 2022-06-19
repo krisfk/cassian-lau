@@ -23,7 +23,7 @@ get_header(); ?>
 <?php endif; ?>
 <div class="container">
 
-    <div class="row justify-content-center">
+    <div class="row justify-content-center gx-5">
 
         <div class="col-10">
             <div class="cassian-name">
