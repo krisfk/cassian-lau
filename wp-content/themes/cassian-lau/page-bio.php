@@ -40,7 +40,7 @@ get_header(); ?>
 
             <h1>About Myself - BIO</h1>
 
-            <img class="float-end float-end ps-4 pb-4"
+            <img class="float-end float-end ps-4 pb-4" style="width:300px"
                 src="http://64.227.13.14/cassian-lau/wp-content/uploads/2022/06/158019336_10158032193583097_235722443919379221_n.jpeg"
                 alt="">
 
