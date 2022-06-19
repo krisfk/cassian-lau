@@ -199,3 +199,7 @@ body {
 .exhibition-a:hover {
     color: #000;
 }
+
+.exhibition-title {
+    font-size: 2rem;
+}

@@ -40,16 +40,17 @@ get_header(); ?>
 
             <h1>Exhibition</h1>
 
-            <div class="mt-4"> Years:
+            <div class="mt-4" class="exhibition-title">
+                PAINTINGS FROM ELECTRIC <br>
+                CLAUSTROPHOBIA SOLO SHOW
             </div>
-            <ul class="year-filter-ul">
-                <li><a href="" class="active">2022</a></li>
-                <li><a href="">2021</a></li>
-                <li><a href="">2020</a></li>
-                <li><a href="">2019</a></li>
-                <li><a href="">2019</a></li>
-                <li><a href="">2018</a></li>
-            </ul>
+            <div class="mt-4">
+                A tight, dark corridor was built. 30 paintings of various sizes were crammed into this narrow hallway to
+                allow the viewer to sense claustrophobia in the elemental tightness of the paintings’ compositions and
+                of its’ show space. Please refer to the “Pictures from EC Show” gallery for views of the installation
+                and guest pictures from the opening night. Also, please don’t ask what happened to # 27. I don’t know
+                what happened to it.
+            </div>
             <div class="row mt-4">
 
                 <?php
