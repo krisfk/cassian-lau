@@ -70,8 +70,20 @@ $(function() {
 
     $('.slideshow').slick({
         slidesToShow: 1,
+        slidesToScroll: 1,
+        autoplay: true,
+        autoplaySpeed: 4000,
         dots: true,
-        arrows: false
+        centerMode: true,
+        variableWidth: true,
+        dotsClass: 'slider-dots',
+        arrows: false,
+        pauseOnFocus: false,
+        infinite: true,
+        speed: 800,
+        fade: true,
+        cssEase: 'ease-out',
+        pauseOnHover: false
     });
 
 })
