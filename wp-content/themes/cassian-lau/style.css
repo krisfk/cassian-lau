@@ -229,4 +229,6 @@ body {
 
 .unchange-color-a:hover {
     opacity: 0.85;
+    color: #000000;
+    text-decoration: none;
 }
