@@ -127,6 +127,11 @@ body {
     display: block;
     font-size: 1.5rem;
     color: #696969;
+    transition: 0.2s all;
+}
+
+.side-menu li a:hover {
+    opacity: 0.85;
 }
 
 .sub-menu {
@@ -139,4 +144,9 @@ body {
 
 .sub-menu li a {
     font-size: 1.25rem;
+    transition: 0.2s;
+}
+
+.sub-menu li a:hover {
+    opacity: 0.85;
 }
