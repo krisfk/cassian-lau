@@ -44,7 +44,7 @@ get_header(); ?>
 
             <ul class="side-menu">
                 <li><a href="#">Home</a></li>
-                <li><a href="#">About Myself</a>
+                <li><a href="javascript:void(0);" class="parent-a">About Myself</a>
                     <ul class="sub-menu">
                         <li><a href="#">Bio</a></li>
                         <li><a href="#">CV</a></li>

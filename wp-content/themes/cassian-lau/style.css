@@ -132,6 +132,7 @@ body {
 .sub-menu {
     margin: 1rem 0 0 0;
     border-right: 2px solid #e62f4a;
+    display: none;
 }
 
 .sub-menu li {}
