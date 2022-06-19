@@ -64,11 +64,11 @@ get_header(); ?>
 
 
                 </div>
-            </div>
-            <?php
+
+                <?php
             }
             ?>
-
+            </div>
         </div>
         <div class="col-2">
 
