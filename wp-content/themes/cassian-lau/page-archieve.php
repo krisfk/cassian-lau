@@ -38,7 +38,7 @@ get_header(); ?>
 
         <div class="col-8 main-content-div">
 
-            <h1>Exhibition</h1>
+            <h1>Archieve</h1>
 
             <div class="mt-4"> Years:
             </div>
