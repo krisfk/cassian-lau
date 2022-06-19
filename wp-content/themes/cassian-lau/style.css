@@ -190,6 +190,11 @@ body {
 .exhibition-a {
     text-decoration: none;
     color: #000;
+    transition: 0.2s all;
+}
+
+.exhibition-a:hover {
+    opacity: 0.85;
 }
 
 .exhibition-a img {
