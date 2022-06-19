@@ -39,8 +39,8 @@ get_header(); ?>
         <div class="col-8 main-content-div">
 
             <h1>Exhibition</h1>
-            <!--  -->
-            <div class="mt-4" class="exhibition-title">
+
+            <div class="mt-4 exhibition-title">
                 PAINTINGS FROM ELECTRIC <br>
                 CLAUSTROPHOBIA SOLO SHOW
             </div>
