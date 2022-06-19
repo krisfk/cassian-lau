@@ -40,7 +40,7 @@ get_header(); ?>
 
             <h1>Exhibition</h1>
 
-            <div> years:
+            <div> Years:
             </div>
             <ul class="year-filter-ul">
                 <li><a href="">2022</a></li>
