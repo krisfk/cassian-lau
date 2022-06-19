@@ -53,12 +53,12 @@ get_header(); ?>
             <div class="row mt-4">
 
                 <?php
-            for($i=0;$i<8;$i++)
+            for($i=0;$i<4;$i++)
             {
                 ?>
-                <div class="col-3"><img class="w-100"
+                <div class="col-3 mb-4"><img class="w-100"
                         src="http://64.227.13.14/cassian-lau/wp-content/uploads/2022/06/rect-img.jpg" alt=""></div>
-                <div class="col-9">
+                <div class="col-9 mb-4">
 
                     <div>2022 - 06 - 09</div>
                     <div>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod
