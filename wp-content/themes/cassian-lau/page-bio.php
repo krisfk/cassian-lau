@@ -41,7 +41,7 @@ get_header(); ?>
             <h1>About Myself - BIO</h1>
 
             <img class="float-end float-end ps-4 pb-4"
-                src="http://64.227.13.14/cassian-lau/wp-content/uploads/2022/06/Alex-Katz_Alex-Katz-2004-Photograph-by-Vivien-Bittencourt.jpeg"
+                src="http://64.227.13.14/cassian-lau/wp-content/uploads/2022/06/158019336_10158032193583097_235722443919379221_n.jpeg"
                 alt="">
 
             Cassian Lau was born in Hong Kong on April 26, 1968. According to his siblings, Cassian's interest in art
