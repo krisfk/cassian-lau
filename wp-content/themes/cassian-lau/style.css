@@ -221,8 +221,12 @@ body {
     opacity: 0.85;
 }
 
-.unchange-color-a,
-.unchange-color-a:hover {
+.unchange-color-a {
     color: #000000;
     text-decoration: none;
+    transition: 0.2s all;
+}
+
+.unchange-color-a:hover {
+    opacity: 0.85;
 }
