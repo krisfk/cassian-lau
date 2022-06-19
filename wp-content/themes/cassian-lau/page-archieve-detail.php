@@ -40,7 +40,32 @@ get_header(); ?>
 
             <h1>Archieve</h1>
 
+            <div class="mt-4 exhibition-title">
+                Title Title Title Title Title Title Title Title Title Title Title Title Title
+                Title Title Title Title Title Title Title Title Title Title Title Title Title
+            </div>
+            <div class="mt-4">
+                <img class="w-100" src="http://64.227.13.14/cassian-lau/wp-content/uploads/2022/06/rect-img.jpg" alt="">
+            </div>
 
+            <div class="mt-4">content txt content txt content txt content txt content txt content txt content txt
+                content txt content txt content txt content txt content txt content txt content txt content txt content
+                txt content txt content txt content txt content txt content txt content txt content txt content txt
+                content txt content txt content txt content txt content txt content txt content txt content txt content
+                txt content txt content txt content txt content txt content txt content txt content txt content txt
+                content txt content txt content txt content txt content txt content txt content txt content txt content
+                txt content txt content txt content txt content txt content txt content txt content txt content txt
+                content txt content txt content txt content txt content txt content txt content txt content txt content
+                txt content txt content txt content txt content txt content txt content txt content txt content txt
+                content txt content txt content txt content txt content txt content txt content txt content txt content
+                txt content txt content txt content txt content txt content txt content txt content txt content txt
+                content txt content txt content txt content txt content txt content txt content txt content txt content
+                txt content txt content txt content txt content txt content txt content txt content txt content txt
+                content txt content txt content txt content txt content txt content txt content txt content txt content
+                txt content txt content txt content txt content txt content txt content txt content txt content txt
+                content txt content txt content txt content txt content txt content txt content txt content txt content
+                txt content txt content txt content txt content txt content txt content txt content txt content txt
+                content txt content txt content txt content txt content txt content txt content txt </div>
 
         </div>
         <div class="col-2">
