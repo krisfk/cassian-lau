@@ -40,7 +40,7 @@ get_header(); ?>
 
             <h1>Exhibition</h1>
 
-            <div> Years:
+            <div class="mt-4"> Years:
             </div>
             <ul class="year-filter-ul">
                 <li><a href="">2022</a></li>
@@ -50,7 +50,7 @@ get_header(); ?>
                 <li><a href="">2019</a></li>
                 <li><a href="">2018</a></li>
             </ul>
-            <div class="row mt-5">
+            <div class="row mt-4">
 
                 <?php
             for($i=0;$i<8;$i++)
