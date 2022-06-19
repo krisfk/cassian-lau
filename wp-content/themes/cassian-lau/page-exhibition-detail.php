@@ -44,7 +44,7 @@ get_header(); ?>
                 PAINTINGS FROM ELECTRIC <br>
                 CLAUSTROPHOBIA SOLO SHOW
             </div>
-            <div class="mt-4">
+            <div class="mt-3">
                 A tight, dark corridor was built. 30 paintings of various sizes were crammed into this narrow hallway to
                 allow the viewer to sense claustrophobia in the elemental tightness of the paintings’ compositions and
                 of its’ show space. Please refer to the “Pictures from EC Show” gallery for views of the installation
