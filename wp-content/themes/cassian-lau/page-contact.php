@@ -48,7 +48,7 @@ get_header(); ?>
                 <br><br>
                 T. (852) 2815 6007<br>
                 F. (852) 2815 6017<br>
-                E. <a href="mailto:info@madhouse.com.hk" target="_blank">info@madhouse.com.hk</a>
+                E. <a class="email-a" href="mailto:info@madhouse.com.hk" target="_blank">info@madhouse.com.hk</a>
 
 
             </div>

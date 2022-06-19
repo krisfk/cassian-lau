@@ -232,3 +232,12 @@ body {
     color: #000000;
     text-decoration: none;
 }
+
+.email-a {
+    color: #0f73be;
+    transition: 0.2s all;
+}
+
+.email-a:hover {
+    color: #e6304a;
+}
