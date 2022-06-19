@@ -35,6 +35,11 @@ $(function() {
         $(this).next('.sub-menu').slideDown(200);
 
     })
+
+    $('back-btn').click(function() {
+        parent.history.back();
+
+    })
 })
 </script>
 </body>
