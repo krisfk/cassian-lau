@@ -53,7 +53,7 @@ get_header(); ?>
             <div class="row mt-5">
 
                 <?php
-            for($i=0;$i<9;$i++)
+            for($i=0;$i<8;$i++)
             {
                 ?>
                 <div class="col-4 mb-4">
