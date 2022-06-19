@@ -40,6 +40,10 @@ get_header(); ?>
 
             <h1>About Myself - BIO</h1>
 
+            <img class="float-end"
+                src="http://64.227.13.14/cassian-lau/wp-content/uploads/2022/06/Alex-Katz_Alex-Katz-2004-Photograph-by-Vivien-Bittencourt.jpeg"
+                alt="">
+
             Cassian Lau was born in Hong Kong on April 26, 1968. According to his siblings, Cassian's interest in art
             started at an early age because he was an annoying and needy child. His sisters would give Cassian stacks of
             paper everyday and asked him to make drawings on all the paper in order to keep him occupied and off their
@@ -90,9 +94,7 @@ get_header(); ?>
             reminded again for those of us today. We must care more. We must love more and we must help more. However,
             Cassian is the first to admit that he is by no means a virtuous or sanctimonious man. He knows his faults
             but he, “..strives to be better, if even just a little, day by day”.
-            <img class="float-end"
-                src="http://64.227.13.14/cassian-lau/wp-content/uploads/2022/06/Alex-Katz_Alex-Katz-2004-Photograph-by-Vivien-Bittencourt.jpeg"
-                alt="">
+
 
 
         </div>
