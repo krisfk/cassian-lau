@@ -23,7 +23,9 @@ get_header(); ?>
 <?php endif; ?>
 <div class="container">
 
-    <div class="cassian-name">CASSIAN LAU
+    <div class="cassian-name">
+        <span class="blue">CASSIAN</span> <span class="red">LAU</span>
+
     </div>
 
     <div class="row">
