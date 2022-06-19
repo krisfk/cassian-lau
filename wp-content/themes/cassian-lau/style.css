@@ -186,3 +186,11 @@ body {
     text-decoration: none;
     color: #000;
 }
+
+.exhibition-a img {
+    padding-bottom: 1rem;
+}
+
+.exhibition-a:hover {
+    color: #000;
+}
