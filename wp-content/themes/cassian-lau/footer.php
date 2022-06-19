@@ -37,8 +37,7 @@ $(function() {
     })
 
     $('back-btn').click(function() {
-        parent.history.back();
-
+        history.back()
     })
 })
 </script>
