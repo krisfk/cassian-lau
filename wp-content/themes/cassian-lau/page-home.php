@@ -23,7 +23,7 @@ get_header(); ?>
 <?php endif; ?>
 <div class="container">
 
-    <div class="row justify-content">
+    <div class="row justify-content-center">
 
         <div class="col-10">
             <div class="cassian-name">
@@ -34,7 +34,7 @@ get_header(); ?>
     </div>
 
 
-    <div class="row justify-content">
+    <div class="row justify-content-center">
 
         <div class="col-8">
             <img class="w-100"
