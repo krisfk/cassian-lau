@@ -40,7 +40,6 @@ get_header(); ?>
 
             <h1>Archieve
 
-                <a href="javascript:void(0);" class="return-btn float-end">Return</a>
 
 
             </h1>
