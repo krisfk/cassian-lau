@@ -51,7 +51,7 @@ get_header(); ?>
                 and guest pictures from the opening night. Also, please don’t ask what happened to # 27. I don’t know
                 what happened to it.
             </div>
-            <div class="row mt-4">
+            <div class="row mt-5">
 
                 <?php
             for($i=0;$i<8;$i++)
