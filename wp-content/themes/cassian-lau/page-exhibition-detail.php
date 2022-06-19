@@ -38,7 +38,11 @@ get_header(); ?>
 
         <div class="col-8 main-content-div">
 
-            <h1>Exhibition</h1>
+            <h1 class="position-relative">Exhibition
+
+                <a href="javascript:void(0);" class="return-btn float-end">Return</a>
+            </h1>
+
 
             <div class="mt-4 exhibition-title">
                 PAINTINGS FROM ELECTRIC <br>
