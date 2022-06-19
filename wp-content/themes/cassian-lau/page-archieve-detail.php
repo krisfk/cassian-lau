@@ -40,36 +40,8 @@ get_header(); ?>
 
             <h1>Archieve</h1>
 
-            <div class="mt-4"> Years:
-            </div>
-            <ul class="year-filter-ul">
-                <li><a href="" class="active">2022</a></li>
-                <li><a href="">2021</a></li>
-                <li><a href="">2020</a></li>
-                <li><a href="">2019</a></li>
-                <li><a href="">2019</a></li>
-                <li><a href="">2018</a></li>
-            </ul>
-            <div class="row mt-4">
 
-                <?php
-            for($i=0;$i<4;$i++)
-            {
-                ?>
-                <div class="col-3 mb-4"><img class="w-100"
-                        src="http://64.227.13.14/cassian-lau/wp-content/uploads/2022/06/rect-img.jpg" alt=""></div>
-                <div class="col-9 mb-4">
 
-                    <div>2022 - 06 - 09</div>
-                    <div>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod
-                        tincidunt ut laoreet dolore magna aliquam erat Lorem ipsum dolor sit amet, consectetuer
-                        adipiscing elit, sed diam nonummy nibh euismod
-                        tincidunt ut laoreet dolore magna aliquam erat </div>
-                </div>
-                <?php
-            }
-            ?>
-            </div>
         </div>
         <div class="col-2">
 
