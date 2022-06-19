@@ -202,4 +202,6 @@ body {
 
 .exhibition-title {
     font-size: 2rem;
+    line-height: 1.2;
+    font-weight: bold;
 }
