@@ -62,6 +62,8 @@ get_header(); ?>
 
                     <div>2022 - 06 - 09</div>
                     <div>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod
+                        tincidunt ut laoreet dolore magna aliquam erat Lorem ipsum dolor sit amet, consectetuer
+                        adipiscing elit, sed diam nonummy nibh euismod
                         tincidunt ut laoreet dolore magna aliquam erat </div>
                 </div>
                 <?php
