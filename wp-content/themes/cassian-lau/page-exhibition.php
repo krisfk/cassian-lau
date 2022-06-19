@@ -51,7 +51,39 @@ get_header(); ?>
                 <li><a href="">2018</a></li>
             </ul>
             <div class="row mt-5">
-                <div class="col-4">
+                <div class="col-4 mb-4">
+                    <a href="" class="exhibition-a"><img class="w-100"
+                            src="http://64.227.13.14/cassian-lau/wp-content/uploads/2022/06/temp-img.png" alt="">
+                        <div>PAINTINGS FROM ELECTRIC CLAUSTROPHOBIA SOLO SHOW</div>
+                    </a>
+
+
+                </div>
+                <div class="col-4 mb-4">
+                    <a href="" class="exhibition-a"><img class="w-100"
+                            src="http://64.227.13.14/cassian-lau/wp-content/uploads/2022/06/temp-img.png" alt="">
+                        <div>PAINTINGS FROM ELECTRIC CLAUSTROPHOBIA SOLO SHOW</div>
+                    </a>
+
+
+                </div>
+                <div class="col-4 mb-4">
+                    <a href="" class="exhibition-a"><img class="w-100"
+                            src="http://64.227.13.14/cassian-lau/wp-content/uploads/2022/06/temp-img.png" alt="">
+                        <div>PAINTINGS FROM ELECTRIC CLAUSTROPHOBIA SOLO SHOW</div>
+                    </a>
+
+
+                </div>
+                <div class="col-4 mb-4">
+                    <a href="" class="exhibition-a"><img class="w-100"
+                            src="http://64.227.13.14/cassian-lau/wp-content/uploads/2022/06/temp-img.png" alt="">
+                        <div>PAINTINGS FROM ELECTRIC CLAUSTROPHOBIA SOLO SHOW</div>
+                    </a>
+
+
+                </div>
+                <div class="col-4 mb-4">
                     <a href="" class="exhibition-a"><img class="w-100"
                             src="http://64.227.13.14/cassian-lau/wp-content/uploads/2022/06/temp-img.png" alt="">
                         <div>PAINTINGS FROM ELECTRIC CLAUSTROPHOBIA SOLO SHOW</div>
