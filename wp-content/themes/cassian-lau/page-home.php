@@ -38,7 +38,8 @@ get_header(); ?>
 
         <div class="col-8">
             <img class="w-100"
-                src="http://64.227.13.14/cassian-lau/wp-content/uploads/2022/06/Alex-Katz_Wildflowers-1.jpeg" alt="">
+                src="http://64.227.13.14/cassian-lau/wp-content/uploads/2022/06/158896603_10158032193383097_5747288509285760327_n.jpeg"
+                alt="">
         </div>
         <div class="col-2">
 
