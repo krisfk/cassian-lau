@@ -28,13 +28,13 @@ get_header(); ?>
 
     </div>
 
-    <div class="row">
+    <div class="row justify-center-">
 
         <div class="col-8">
             <img class="w-100"
                 src="http://64.227.13.14/cassian-lau/wp-content/uploads/2022/06/Alex-Katz_Wildflowers-1.jpeg" alt="">
         </div>
-        <div class="col-4">
+        <div class="col-2">
 
             <ul class="side-menu">
                 <li><a href="#">Home</a></li>
