@@ -40,7 +40,7 @@ get_header(); ?>
 
             <h1>About Myself - BIO</h1>
 
-            <img class="float-end"
+            <img class="float-end float-end ps-4 pb-4"
                 src="http://64.227.13.14/cassian-lau/wp-content/uploads/2022/06/Alex-Katz_Alex-Katz-2004-Photograph-by-Vivien-Bittencourt.jpeg"
                 alt="">
 
