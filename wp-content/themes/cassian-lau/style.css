@@ -97,7 +97,7 @@ Twenty Twenty-One is distributed under the terms of the GNU GPL.
  */
 
 body {
-    font-family: 'Kdam Thmor Pro', sans-serif;
+    font-family: 'Kdam Thmor Pro', sans-serif !important;
 }
 
 .cassian-name {
