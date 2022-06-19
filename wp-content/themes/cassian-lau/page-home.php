@@ -21,6 +21,21 @@ get_header(); ?>
     <h1 class="page-title"><?php single_post_title(); ?></h1>
 </header><!-- .page-header -->
 <?php endif; ?>
-fdsf
+<div class="container">
+
+    <div>CASSIAN LAU
+    </div>
+
+    <div class="row">
+
+        <div class="col-8">
+            <img class="w-100"
+                src="http://64.227.13.14/cassian-lau/wp-content/uploads/2022/06/Alex-Katz_Wildflowers-1.jpeg" alt="">
+        </div>
+        <div class="col-4"></div>
+
+
+    </div>
+</div>
 <?php
 get_footer();

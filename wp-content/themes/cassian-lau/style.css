@@ -95,3 +95,7 @@ Twenty Twenty-One is distributed under the terms of the GNU GPL.
  * Editor Font Sizes....Editor Font Sizes.
  * Measure..............The width of a line of text, in characters.
  */
+
+body {
+    font-family: 'Kdam Thmor Pro', sans-serif;
+}
