@@ -32,7 +32,7 @@ $(function() {
 
     $('.parent-a').click(function() {
 
-        $(this).next('sub-menu').SlideDown(200);
+        $(this).next('sub-menu').slideDown(200);
 
     })
 })
