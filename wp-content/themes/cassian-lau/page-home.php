@@ -38,7 +38,12 @@ get_header(); ?>
 
             <ul class="side-menu">
                 <li><a href="#">Home</a></li>
-                <li><a href="#">About Myself</a></li>
+                <li><a href="#">About Myself</a>
+                    <ul>
+                        <li><a href="#">Bio</a></li>
+                        <li><a href="#">CV</a></li>
+                    </ul>
+                </li>
                 <li><a href="#">Exhibition</a></li>
                 <li><a href="#">Archieve</a></li>
                 <li><a href="#">Blog</a></li>
