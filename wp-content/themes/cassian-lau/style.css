@@ -208,4 +208,10 @@ body {
 
 .return-btn {
     color: #8f8f8f;
+    transition: 0.2s all;
+}
+
+.return-btn:hover {
+    color: #8f8f8f;
+    opacity: 0.85;
 }
