@@ -1,0 +1,393 @@
+@charset "UTF-8";
+
+/*
+Theme Name: cassian-lau
+Theme URI: https://wordpress.org/themes/twentytwentyone/
+Author: the WordPress team
+Author URI: https://wordpress.org/
+Description: Twenty Twenty-One is a blank canvas for your ideas and it makes the block editor your best brush. With new block patterns, which allow you to create a beautiful layout in a matter of seconds, this theme’s soft colors and eye-catching — yet timeless — design will let your work shine. Take it for a spin! See how Twenty Twenty-One elevates your portfolio, business website, or personal blog.
+Requires at least: 5.3
+Tested up to: 6.0
+Requires PHP: 5.6
+Version: 1.6
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: twentytwentyone
+Tags: one-column, accessibility-ready, custom-colors, custom-menu, custom-logo, editor-style, featured-images, footer-widgets, block-patterns, rtl-language-support, sticky-post, threaded-comments, translation-ready
+
+Twenty Twenty-One WordPress Theme, (C) 2020 WordPress.org
+Twenty Twenty-One is distributed under the terms of the GNU GPL.
+*/
+
+
+/**
+ * SETTINGS
+ * File-header..........The file header for the themes style.css file.
+ * Fonts................Any font files, if the project needs specific fonts.
+ * Global...............Project-specific, globally available variables.
+ *
+ * TOOLS
+ * Functions............Global functions.
+ * Mixins...............Global mixins.
+ *
+ * GENERIC
+ * Normalize.css........Normalise browser defaults.
+ * Breakpoints..........Mixins and variables for responsive styles
+ * Vertical-margins.....Vertical spacing for the main components.
+ * Reset................Reset specific elements to make them easier to style in other contexts.
+ * Clearings............Clearings for the main components.
+ *
+ * ELEMENTS
+ * Blockquote...........Default blockquote.
+ * Forms................Element-level form styling.
+ * Headings.............H1–H6
+ * Links................Default links.
+ * Lists................Default lists.
+ * Media................Images, Figure, Figcaption, Embed, iFrame, Objects, Video.
+ *
+ * BLOCKS
+ * Audio................Specific styles for the audio block.
+ * Button...............Specific styles for the button block.
+ * Code.................Specific styles for the code block.
+ * Columns..............Specific styles for the columns block.
+ * Cover................Specific styles for the cover block.
+ * File.................Specific styles for the file block.
+ * Gallery..............Specific styles for the gallery block.
+ * Group................Specific styles for the group block.
+ * Heading..............Specific styles for the heading block.
+ * Image................Specific styles for the image block.
+ * Latest comments......Specific styles for the latest comments block.
+ * Latest posts.........Specific styles for the latest posts block.
+ * Legacy...............Specific styles for the legacy gallery.
+ * List.................Specific styles for the list block.
+ * Media text...........Specific styles for the media and text block.
+ * Navigation...........Specific styles for the navigation block.
+ * Paragraph............Specific styles for the paragraph block.
+ * Pullquote............Specific styles for the pullquote block.
+ * Quote................Specific styles for the quote block.
+ * Search...............Specific styles for the search block.
+ * Separator............Specific styles for the separator block.
+ * Spacer...............Specific styles for the spacer block.
+ * Table................Specific styles for the table block.
+ * Verse................Specific styles for the verse block.
+ * Video................Specific styles for the video block.
+ * Utilities............Block alignments.
+ *
+ * COMPONENTS
+ * Header...............Header styles.
+ * Footer...............Footer styles.
+ * Comments.............Comment styles.
+ * Archives.............Archive styles.
+ * 404..................404 styles.
+ * Search...............Search styles.
+ * Navigation...........Navigation styles.
+ * Footer Navigation....Footer Navigation styles.
+ * Pagination...........Pagination styles.
+ * Single...............Single page and post styles.
+ * Posts and pages......Misc, sticky post styles.
+ * Entry................Entry, author biography.
+ * Widget...............Widget styles.
+ * Editor...............Editor styles.
+ *
+ * UTILITIES
+ * A11y.................Screen reader text, prefers reduced motion etc.
+ * Color Palette........Classes for the color palette colors.
+ * Editor Font Sizes....Editor Font Sizes.
+ * Measure..............The width of a line of text, in characters.
+ */
+
+body {
+    font-family: 'Roboto', sans-serif !important;
+    /* 'Kdam Thmor Pro', sans-serif !important; */
+    background: #000 !important;
+    color: #fff !important;
+}
+
+.cassian-name {
+    font-size: 35px;
+    position: relative;
+    margin: 2rem 0 1rem 0;
+}
+
+.blue {
+    color: #0f73bf;
+}
+
+.red {
+    color: #e6304a;
+}
+
+.side-menu {
+    padding: 0;
+    margin: 0;
+}
+
+.side-menu li {
+    list-style-type: none;
+    margin: 0 0 0.7rem 0;
+}
+
+.side-menu li a {
+    text-decoration: none;
+    display: block;
+    font-size: 16px;
+    /* color: #696969; */
+    color: #fff;
+    transition: 0.2s all;
+}
+
+.side-menu li a:hover {
+    opacity: 0.85;
+}
+
+.sub-menu {
+    margin: 1rem 0 0 0;
+    border-right: 2px solid #e62f4a;
+    display: none;
+}
+
+.sub-menu li {}
+
+.sub-menu li a {
+    font-size: 1.25rem;
+    transition: 0.2s;
+    color: #0f73be;
+}
+
+.sub-menu li a:hover {
+    opacity: 0.85;
+    color: #e6304a;
+}
+
+.main-content-div {
+    /* font-family: Arial, Helvetica, sans-serif; */
+    font-size: 13px;
+}
+
+.main-content-div h1 {
+    font-size: 1rem;
+    color: #fff;
+    border-bottom: 1px solid #fff;
+    padding-bottom: 0.5rem;
+    display: block;
+    font-weight: bold;
+    margin: 0 0 1.5rem 0;
+}
+
+.year-filter-ul {
+    padding: 0;
+    margin: 0;
+}
+
+.year-filter-ul li {
+    display: inline-block;
+    margin: 0.2rem 0.5rem 0 0;
+}
+
+.year-filter-ul li a {
+    color: #fff;
+    text-decoration: none;
+    text-decoration: underline;
+}
+
+.year-filter-ul li a:hover {
+    opacity: 0.85;
+}
+
+.year-filter-ul li a.active {
+    font-weight: bold;
+    color: #fff;
+    text-decoration: none;
+}
+
+.year-filter-ul li a.active:hover {
+    opacity: 1;
+    /* curs; */
+}
+
+.exhibition-a {
+    text-decoration: none;
+    color: #fff;
+    transition: 0.2s all;
+    font-size: 13px;
+}
+
+.exhibition-a:hover {
+    opacity: 0.85;
+}
+
+.exhibition-a img {
+    padding-bottom: 1rem;
+}
+
+.exhibition-a:hover {
+    color: #fff;
+}
+
+.exhibition-title {
+    font-size: 36px;
+    line-height: 1.2;
+    font-weight: bold;
+}
+
+.return-btn {
+    color: #8f8f8f;
+    transition: 0.2s all;
+}
+
+.return-btn:hover {
+    color: #8f8f8f;
+    opacity: 0.85;
+}
+
+.unchange-color-a {
+    color: #fff;
+    text-decoration: none;
+    transition: 0.2s all;
+}
+
+.unchange-color-a:hover {
+    opacity: 0.85;
+    color: #fff;
+    text-decoration: none;
+}
+
+.email-a {
+    color: #fff;
+    transition: 0.2s all;
+}
+
+.email-a:hover {
+    color: #fff;
+}
+
+footer {
+    font-size: 10px;
+    padding: 0 0 1rem 0;
+}
+
+hr {
+    margin: 1rem 0;
+    color: inherit;
+    border: 0;
+    border-top: 1px solid #fff !important;
+    opacity: 1 !important;
+}
+
+.sns-icon-a {
+    margin: 0 0.5rem 0 0;
+}
+
+.sns-icon-a img {
+    width: 30px;
+}
+
+.bio-image {
+    float: right;
+    padding-bottom: 1rem;
+    padding-left: 1rem;
+    width: 300px;
+}
+
+.hamburger-lines {
+    display: none;
+    /* height: 26px;
+    width: 32px;
+    position: absolute;
+    top: 17px;
+    right: 0;
+    x: 2;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between; */
+}
+
+.hamburger-lines .line {
+    display: block;
+    height: 4px;
+    width: 100%;
+    border-radius: 10px;
+    background: #fff;
+}
+
+.hamburger-lines .line1 {
+    transform-origin: 0% 0%;
+    transition: transform 0.4s ease-in-out;
+}
+
+.hamburger-lines .line2 {
+    transition: transform 0.2s ease-in-out;
+}
+
+.hamburger-lines .line3 {
+    transform-origin: 0% 100%;
+    transition: transform 0.4s ease-in-out;
+}
+
+.hamburger-lines.active .line1 {
+    transform: rotate(45deg);
+}
+
+.hamburger-lines.active .line2 {
+    transform: scaleY(0);
+}
+
+.hamburger-lines.active .line3 {
+    transform: rotate(-45deg);
+}
+
+#content {
+    min-height: 75vh;
+}
+
+@media only screen and (max-width: 991px) {
+    .exhibition-title {
+        font-size: 22px;
+        line-height: 1.2;
+        font-weight: bold;
+    }
+    .side-menu {
+        display: none;
+    }
+    .hamburger-lines {
+        display: block;
+        height: 26px;
+        width: 32px;
+        position: absolute;
+        top: 12px;
+        right: 0;
+        x: 2;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+    }
+    .bio-image {
+        float: none;
+        padding: 0 0 2rem 0;
+        width: 80%;
+        max-width: 360px;
+        display: block;
+        text-align: center;
+        margin: 0 auto;
+    }
+    .side-menu {
+        position: absolute;
+        right: 0;
+        top: 6rem;
+        background: rgb(0 0 0 / 80%);
+        padding: 0 3rem;
+        z-index: 100;
+    }
+}
+
+@media only screen and (max-width: 768px) {}
+
+@media only screen and (max-width: 640px) {}
+
+@media only screen and (max-width: 480px) {}
+
+@media only screen and (max-width: 360px) {}
+
+.container {
+    position: relative !important;
+}
