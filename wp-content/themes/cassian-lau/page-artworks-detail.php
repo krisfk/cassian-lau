@@ -61,10 +61,7 @@ get_header(); ?>
 
                         //    echo str_replace("world","Peter","Hello world!");
 
-                        //    if($group_name==trim($_REQUEST['gn']))
-
-
-                        if($group_name==trim(str_replace("\'","'",$_REQUEST['gn'])))
+                           if($group_name==trim($_REQUEST['gn']) ||    $group_name==trim(str_replace("\'","'",$_REQUEST['gn'])) )
                            {
                             
                             ?>
