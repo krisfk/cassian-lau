@@ -58,7 +58,13 @@ get_header(); ?>
                            $group_name= get_sub_field('group_name');
                            echo $_REQUEST['gn'].'<br>';
                            echo $group_name;
-                           if($group_name==trim($_REQUEST['gn']))
+
+                        //    echo str_replace("world","Peter","Hello world!");
+
+                        //    if($group_name==trim($_REQUEST['gn']))
+
+
+                        if($group_name==trim(str_replace("\'","'",$_REQUEST['gn'])))
                            {
                             
                             ?>
