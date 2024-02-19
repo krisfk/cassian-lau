@@ -56,8 +56,8 @@ get_header(); ?>
                         {
                             the_row(); 
                            $group_name= get_sub_field('group_name');
-                           echo $_REQUEST['gn'].'<br>';
-                           echo $group_name;
+                        //    echo $_REQUEST['gn'].'<br>';
+                        //    echo $group_name;
 
                         //    echo str_replace("world","Peter","Hello world!");
 
