@@ -66,7 +66,11 @@ get_header(); ?>
                             
                             ?>
         <div class="mt-4 exhibition-title">
-            <?php echo $_REQUEST['gn'];?>
+            <?php 
+            
+            //echo $_REQUEST['gn'];
+            echo str_replace("\'","'",$_REQUEST['gn']);
+            ?>
         </div>
         <div class="mt-3">
             <?php echo get_sub_field('group_description');?>
