@@ -56,6 +56,7 @@ get_header(); ?>
                         {
                             the_row(); 
                            $group_name= get_sub_field('group_name');
+                           echo 1;
                            if($group_name==trim($_REQUEST['gn']))
                            {
                             
